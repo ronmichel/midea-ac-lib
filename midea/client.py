@@ -14,7 +14,7 @@ VERSION = '0.1.11'
 
 DEVICE_TYPES = {
     0xAC: air_conditioning_device,
-    0x00: dehumidifier_device
+    0xa1: dehumidifier_device
 }
 
 
